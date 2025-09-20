@@ -12,14 +12,10 @@ It is **read-only** by design—no real trades are executed.
 
 **Live Dashboard**
   Connected
-  <img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/30dd7520-de05-4479-a1e4-f40fd12fb4c2" />
-  
+  <img width="1919" height="863" alt="Screenshot 2025-09-20 142315" src="https://github.com/user-attachments/assets/0a2e6b93-3af5-4c73-93d3-e5e531135c1f" />
+
   Not Connected
-  <img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/4d96ef76-b06b-41e0-8ae6-f8a75094f6ce" />
-  <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/266a056c-f782-440e-8e6c-8fdbbb2e5ce6" />
-
-
-
+  <img width="1919" height="868" alt="Screenshot 2025-09-20 142505" src="https://github.com/user-attachments/assets/b2948cd3-c839-462a-93a8-6f5383eb4325" />
 ---
 
 ## Features
